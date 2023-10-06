@@ -6,6 +6,7 @@ In this project you will need to utilize React, Redux, Redux-Saga and integrate 
 
 ## Snapshots
 <img width="877" alt="Screenshot 2023-10-06 at 2 51 04 PM" src="https://github.com/Kennyfergy/group-giphy-saga-project/assets/121765690/7d229a93-7f7f-402d-ad43-abea282222ab">
+
 <img width="885" alt="Screenshot 2023-10-06 at 2 51 39 PM" src="https://github.com/Kennyfergy/group-giphy-saga-project/assets/121765690/18c8d261-b645-4ad7-b65b-b1be1769812e">
 
 <img width="932" alt="Screenshot 2023-10-06 at 2 52 11 PM" src="https://github.com/Kennyfergy/group-giphy-saga-project/assets/121765690/48adb0ce-4c80-4ee1-9498-f0b72077acc6">
